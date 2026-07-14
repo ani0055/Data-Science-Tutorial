@@ -33,6 +33,10 @@ print(a)
 c.clear()
 print(c)
 
+a = ["Ironman", "Thor","Hulk","Captain America","Hulk"]
+a.sort(reverse=True)
+print(a)
+
 
 
 

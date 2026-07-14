@@ -7,7 +7,7 @@ print(a[-4:])
 
 print(b[::2])#2 is the number of Gaps
 print(b[:7:2])#till & with the gap of 2
-print(b[::-1])#reverses the str ing
+print(b[::-1])#reverses the string
 print(a[::-1])
 
 
