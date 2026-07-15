@@ -1,5 +1,4 @@
 #endswith() - Returns true value if the strings end with the specified value
-
 a = " Animesh Gawhale "
 print(a.endswith("e"))
 
